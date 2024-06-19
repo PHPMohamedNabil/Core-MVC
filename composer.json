@@ -9,17 +9,17 @@
     "nesbot/carbon": "^2.67",
     "rakit/validation": "dev-master",
     "league/pipeline": "dev-master",
-    "vlucas/phpdotenv": "dev-master",
     "optimus/onion": "~1.0",
+    "vlucas/phpdotenv": "dev-master",
     "verot/class.upload.php": "dev-master",
     "doctrine/inflector": "2.0.x-dev",
     "symfony/password-hasher": "5.4.x-dev",
     "php-mohamed-nabil/style": "dev-master",
-    "php-mohamed-nabil/marrow-framework": "dev-main",
     "league/booboo": "dev-main",
     "spatie/ignition": "^1.9",
     "httpsoft/http-server-request": "dev-master",
-    "league/oauth2-facebook": "dev-main"
+    "league/oauth2-facebook": "dev-main",
+    "php-mohamed-nabil/marrow-framework": "dev-main"
     },
     "autoload":
   {
